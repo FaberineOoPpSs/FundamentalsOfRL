@@ -1,0 +1,2 @@
+# Fundamentals of Reinforcement Learning
+- Fundamentals of Reinforcement Learning, is the first course in a four-part specialization on Reinforcement Learning offered by the University of Alberta, Onlea, and Coursera!
